@@ -1,1 +1,6 @@
 они отличаются историей коммитов
+
+1. Merge remote-tracking branch 'origin/boots' into boots_buttons
+2. --''-- 'origin/buttons' --''--
+3. --''-- 'origin/hat'
+4. added hometask.txt file
